@@ -11,7 +11,7 @@ $EM_CONF['form_element_linked_checkbox'] = [
     'version' => '5.0.2',
     'constraints' => [
         'depends' => [
-            'typo3' => '12.4.0-13.4.99',
+            'typo3' => '12.4.0-14.4.99',
         ],
         'conflicts' => [],
         'suggests' => [],
